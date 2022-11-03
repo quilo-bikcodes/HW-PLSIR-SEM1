@@ -4,3 +4,5 @@ for i in range(1,x+1):
     if i%2:
         sum+=i
 print(f"The sum of od Nos. {sum}")
+
+# Odd number sum

@@ -6,3 +6,5 @@ def main(x):
     return "Prime No."
 
 print(main(num))
+
+# check prime nos

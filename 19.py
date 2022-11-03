@@ -1,0 +1,6 @@
+width = input('Enter short side : ')
+height = input('Enter tall side : ')
+area = int(width)*int(height)
+perimeter =2*(int(width)+int(height))
+print(f"area: {area}")
+print(f"perimeter: {perimeter}")
